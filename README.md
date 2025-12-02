@@ -15,7 +15,7 @@
 🎓 **Ingeniero de Sistemas** - Universidad Autónoma de Bucaramanga (UNAB)  
 📚 **Maestría en Gestión, Aplicación y Desarrollo de Software** (En curso)  
 🌍 **Ubicación:** Colombia  
-💻 **Especialidades:** Full Stack Development, Game Development, Data Science  
+💻 **Especialidades:** Full Stack Development - Data Science  
 🗣️ **Idiomas:** Español (Nativo), Inglés (B2)  
 
 ---
