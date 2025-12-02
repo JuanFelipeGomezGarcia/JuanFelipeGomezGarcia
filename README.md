@@ -35,6 +35,7 @@
 
 ### 🎮 Desarrollo de Videojuegos
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Dev-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white)
 
@@ -62,12 +63,13 @@
 
 ## 📊 Estadísticas de GitHub
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanFelipeGomezGarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanFelipeGomezGarcia&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipeGomezGarcia&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipeGomezGarcia&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
